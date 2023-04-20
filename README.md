@@ -2,6 +2,8 @@
 🌟Discover an exciting 🎓educational adventure through generated manga/comics 📚visual novel application!🎉
 
 
-user enters educational topic or enters their own ("linear algebra", "circulatory system of human", "shapes", "letters a-h"), then fills out a questionnaire about preexisting knowledge on subject, picks an inspiration scenario framework (initially only "StarTrek"), optionally selects a copyrighted characters/universe to use (StarTrek, Starwars, Marvel, JoJo... ). System generates a visual novel interlaced with generated videos that help user to understand topic: besides demonstration of the material, characters come up with helpful analogies and explain them in canvas of the script.
+The user inputs a subject of their choice, such as "linear algebra", "circulatory system of humans", "shapes", or "letters a-h". Then, they fill out a questionnaire to gauge their preexisting knowledge on the topic. They can also select an inspiration scenario framework, with "StarTrek" being the only option at this time. Additionally, they have the option to incorporate copyrighted characters/universes, such as StarTrek, Starwars, Marvel, or JoJo. Once all the parameters are set, the system generates a visual novel that incorporates informative videos to assist the user in comprehending the subject. The characters in the story provide helpful analogies and explanations, making the material more accessible. The visual novel also includes JavaScript applets that explain graphs and formulas interactively, some of which involve solving puzzles that affect the outcome of the story.
 
-additionally, JS applets explaining graphs and formulas interactively are generated and presented within novel; some of them are involving seeking solution to the puzzle; successful solution influences scenario 
+
+
+
